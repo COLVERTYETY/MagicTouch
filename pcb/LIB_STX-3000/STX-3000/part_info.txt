@@ -1,0 +1,9 @@
+Manufacturer=Kycon
+PartNumber=STX-3000
+PartCategory=Connector
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2020-02-14 23:47:18
+Downloaded=2022-11-10 17:16:43
+3D=Y

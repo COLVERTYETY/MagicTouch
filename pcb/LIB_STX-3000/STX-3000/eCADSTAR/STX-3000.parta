@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_8595766"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-14-23:47:18)
+    (utime 2022-03-24-17:50:53)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "STX-3000")
+)
+
+
+(pinAssign "ECS_8595766"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-14-23:47:18)
+    (utime 2022-03-24-17:50:53)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_8595766")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "STX-3000")
+)
+
+
+(part "STX-3000"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-02-14-23:47:18)
+    (utime 2022-03-24-17:50:53)
+    (packageRef "STX-3000")
+    (pinAssignRef "ECS_8595766")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "Phone Connectors 3.5mm PCB STEREO BLK PLASTIC NON THREADED")
+    (property "Mouser_Part_Number" "806-STX-3000")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kycon/STX-3000?qs=kjZ2mQLP346Nbz1X9BOzfg%3D%3D")
+    (property "Manufacturer_Name" "Kycon")
+    (property "Manufacturer_Part_Number" "STX-3000")
+    (property "Datasheet_Link" "http://www.kycon.com/Pub_Eng_Draw/STX-3000.pdf")
+    (property "compAreaTopHeight" 5.4)
+)
+
+

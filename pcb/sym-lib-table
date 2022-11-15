@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "jack")(type "Legacy")(uri "${KIPRJMOD}/LIB_STX-3000/STX-3000/KiCad/STX-3000.lib")(options "")(descr ""))
+)

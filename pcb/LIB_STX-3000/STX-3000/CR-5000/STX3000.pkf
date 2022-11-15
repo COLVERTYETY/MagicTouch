@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "STX3000"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "STX3000")
+        (spec "default")
+    )
+)

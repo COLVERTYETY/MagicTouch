@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "jack")(type "KiCad")(uri "${KIPRJMOD}/LIB_STX-3000/STX-3000/KiCad")(options "")(descr ""))
+  (lib (name "cristal")(type "KiCad")(uri "${KIPRJMOD}/LIB_ABLS-16.000MHz-20-B-3-H-T/ABLS-16.000MHz-20-B-3-H-T/KiCad")(options "")(descr ""))
+)

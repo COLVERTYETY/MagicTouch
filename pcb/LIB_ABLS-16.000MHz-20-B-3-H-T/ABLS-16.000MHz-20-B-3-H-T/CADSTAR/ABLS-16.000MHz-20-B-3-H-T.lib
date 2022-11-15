@@ -1,0 +1,16 @@
+.ABLS-16.000MHz-20-B-3-H-T :1 ;Crystals 20
+ABLS16000MHz20B3HT
+*STM Y
+*NGS
+*PLB 1="CRYSTAL_1" 2="CRYSTAL_2"
+*MXP 2
+*DFN ABLS-16.000MHz-20-B-3-H-T
+~!Mouser Part Number (815-LS16000MHZ20B3HT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ABRACON/ABLS-16000MHZ-20-B-3-H-T?qs=vLWxofP3U2xcDOBzS3uczg%3D%3D)
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ABLS-16.000MHz-20-B-3-H-T)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/ABLS-16.000MHZ-20-B-3-H-T.pdf)
+~!Height (4.2mm)
+~!3D_Model (ABLS-16.000MHz-20-B-3-H-T)
+ABLS-16.000MHz-20-B-3-H-T
+1.1!U 2.1!U 

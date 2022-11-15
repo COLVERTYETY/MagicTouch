@@ -1,0 +1,9 @@
+Manufacturer=ABRACON
+PartNumber=ABLS-16.000MHz-20-B-3-H-T
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2020-08-16 10:08:52
+Downloaded=2022-11-10 18:53:41
+3D=Y

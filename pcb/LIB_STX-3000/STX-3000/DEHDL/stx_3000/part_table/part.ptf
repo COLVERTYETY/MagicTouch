@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STX_3000'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kycon", "STX-3000" (!) = "", "STX3000", "Other", "806-STX-3000", "https://www.mouser.co.uk/ProductDetail/Kycon/STX-3000?qs=kjZ2mQLP346Nbz1X9BOzfg%3D%3D", "Phone Connectors 3.5mm PCB STEREO BLK PLASTIC NON THREADED", "http://www.kycon.com/Pub_Eng_Draw/STX-3000.pdf", "5.4 mm"
+END_PART
+
+END.

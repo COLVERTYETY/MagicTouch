@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ABLS16000MHz20B3HT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ABLS16000MHz20B3HT")
+        (spec "default")
+    )
+)
